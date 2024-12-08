@@ -1,0 +1,198 @@
+id,name,cleanName,genre,releaseYear,doesName,yesSum,noSum
+9593,Fight Club,fight_club,drama,1999,Does the dog die,3,99
+9593,Fight Club,fight_club,drama,1999,Were animals harmed in the making,1,30
+9593,Fight Club,fight_club,drama,1999,Does an animal die,0,67
+9593,Fight Club,fight_club,drama,1999,Are animals abused,3,67
+9593,Fight Club,fight_club,drama,1999,Is there dog fighting,1,66
+9593,Fight Club,fight_club,drama,1999,Is there a dead animal,0,56
+9593,Fight Club,fight_club,drama,1999,Is an animal sad,0,22
+9593,Fight Club,fight_club,drama,1999,Are rabbits harmed,0,26
+9593,Fight Club,fight_club,drama,1999,Does a cat die,0,69
+9593,Fight Club,fight_club,drama,1999,Does a pet die,1,34
+9593,Fight Club,fight_club,drama,1999,Does a dragon die,0,63
+9593,Fight Club,fight_club,drama,1999,Are there spiders,16,55
+9593,Fight Club,fight_club,drama,1999,Are there alligators/crocodiles?,0,26
+9593,Fight Club,fight_club,drama,1999,Are there snakes,1,60
+9593,Fight Club,fight_club,drama,1999,Are there sharks,0,25
+9593,Fight Club,fight_club,drama,1999,Are there bugs,2,55
+9593,Fight Club,fight_club,drama,1999,Does a horse die,0,70
+9593,Fight Club,fight_club,drama,1999,Is a child abandoned by a parent,33,5
+9593,Fight Club,fight_club,drama,1999,Is an animal abandoned,0,29
+9593,Fight Club,fight_club,drama,1999,Does someone leave without saying goodbye,25,1
+9593,Fight Club,fight_club,drama,1999,Is someone stalked,54,6
+9593,Fight Club,fight_club,drama,1999,Does an abused person forgive their abuser,0,25
+9593,Fight Club,fight_club,drama,1999,Does the abused become the abuser,29,5
+9593,Fight Club,fight_club,drama,1999,Is someone gaslighted,83,1
+9593,Fight Club,fight_club,drama,1999,Is someone abused with a belt,0,23
+9593,Fight Club,fight_club,drama,1999,Is a child abused,0,62
+9593,Fight Club,fight_club,drama,1999,Is a woman brutalized for spectacle,0,22
+9593,Fight Club,fight_club,drama,1999,Is there domestic violence,4,49
+9593,Fight Club,fight_club,drama,1999,Are there abusive parents,0,24
+9593,Fight Club,fight_club,drama,1999,Does someone abuse alcohol,5,54
+9593,Fight Club,fight_club,drama,1999,Is there addiction,79,0
+9593,Fight Club,fight_club,drama,1999,Does someone use drugs,77,1
+9593,Fight Club,fight_club,drama,1999,Is there pedophilia,8,21
+9593,Fight Club,fight_club,drama,1999,Is someone held under water,0,28
+9593,Fight Club,fight_club,drama,1999,Is rape mentioned,13,15
+9593,Fight Club,fight_club,drama,1999,Is someone beaten up by a bully,3,20
+9593,Fight Club,fight_club,drama,1999,Is someone restrained,42,0
+9593,Fight Club,fight_club,drama,1999,Is someone sexually assaulted,11,48
+9593,Fight Club,fight_club,drama,1999,Is someone's mouth covered,19,0
+9593,Fight Club,fight_club,drama,1999,Are there jokes about sexual assault on men,1,24
+9593,Fight Club,fight_club,drama,1999,Is someone raped onscreen,0,33
+9593,Fight Club,fight_club,drama,1999,Does a woman get slapped,0,22
+9593,Fight Club,fight_club,drama,1999,Is someone drugged,4,21
+9593,Fight Club,fight_club,drama,1999,Are any hands damaged,27,0
+9593,Fight Club,fight_club,drama,1999,Are there dislocations,16,1
+9593,Fight Club,fight_club,drama,1999,Is there throat mutilation,16,1
+9593,Fight Club,fight_club,drama,1999,Does someone struggle to breathe,53,1
+9593,Fight Club,fight_club,drama,1999,Is there decapitation,0,23
+9593,Fight Club,fight_club,drama,1999,Is there cannibalism,0,48
+9593,Fight Club,fight_club,drama,1999,Is someone crushed to death,0,28
+9593,Fight Club,fight_club,drama,1999,Is someone choked,13,8
+9593,Fight Club,fight_club,drama,1999,Is someone burned alive,44,18
+9593,Fight Club,fight_club,drama,1999,Is someone buried alive,1,45
+9593,Fight Club,fight_club,drama,1999,Is there body horror,13,20
+9593,Fight Club,fight_club,drama,1999,Is there amputation,1,41
+9593,Fight Club,fight_club,drama,1999,Does a head get squashed,8,49
+9593,Fight Club,fight_club,drama,1999,Is there Achilles Tendon injury,0,29
+9593,Fight Club,fight_club,drama,1999,Is there shaving/cutting,59,0
+9593,Fight Club,fight_club,drama,1999,Does someone asphyxiate,0,28
+9593,Fight Club,fight_club,drama,1999,Is there genital trauma/mutilation,51,4
+9593,Fight Club,fight_club,drama,1999,Does someone become unconscious,27,0
+9593,Fight Club,fight_club,drama,1999,Does someone break a bone,60,0
+9593,Fight Club,fight_club,drama,1999,Does someone have a seizure,0,51
+9593,Fight Club,fight_club,drama,1999,Are any teeth damaged,80,0
+9593,Fight Club,fight_club,drama,1999,Is there finger/toe mutilation,3,50
+9593,Fight Club,fight_club,drama,1999,Is someone tortured,70,3
+9593,Fight Club,fight_club,drama,1999,Does someone fall down stairs,32,0
+9593,Fight Club,fight_club,drama,1999,Does someone fall to their death,1,41
+9593,Fight Club,fight_club,drama,1999,Is there eye mutilation,12,46
+9593,Fight Club,fight_club,drama,1999,Is someone stabbed,0,19
+9593,Fight Club,fight_club,drama,1999,Is there excessive gore,45,3
+9593,Fight Club,fight_club,drama,1999,Is there a hanging,1,53
+9593,Fight Club,fight_club,drama,1999,Is an infant abducted,0,27
+9593,Fight Club,fight_club,drama,1999,Is a minor sexualized,7,24
+9593,Fight Club,fight_club,drama,1999,Does a kid die,0,50
+9593,Fight Club,fight_club,drama,1999,Are there bedbugs,0,18
+9593,Fight Club,fight_club,drama,1999,Does someone sacrifice themselves,25,0
+9593,Fight Club,fight_club,drama,1999,Does a non-human character die,0,22
+9593,Fight Club,fight_club,drama,1999,Does someone die,26,0
+9593,Fight Club,fight_club,drama,1999,Does a major character die,24,0
+9593,Fight Club,fight_club,drama,1999,Is someone disabled played by able-bodied,0,17
+9593,Fight Club,fight_club,drama,1999,Is the r-slur used,0,30
+9593,Fight Club,fight_club,drama,1999,Does someone overdose,30,1
+9593,Fight Club,fight_club,drama,1999,Does a parent die,2,50
+9593,Fight Club,fight_club,drama,1999,Is a child's toy destroyed,0,38
+9593,Fight Club,fight_club,drama,1999,Is someone kidnapped,51,1
+9593,Fight Club,fight_club,drama,1999,Does a family member die,0,19
+9593,Fight Club,fight_club,drama,1999,Does someone cheat,6,38
+9593,Fight Club,fight_club,drama,1999,Are there ghosts,0,47
+9593,Fight Club,fight_club,drama,1999,Are there jump scares,0,44
+9593,Fight Club,fight_club,drama,1999,Is there a shower scene,33,15
+9593,Fight Club,fight_club,drama,1999,Are there natural bodies of water,0,19
+9593,Fight Club,fight_club,drama,1999,Are there clowns,0,49
+9593,Fight Club,fight_club,drama,1999,Is someone possessed,3,39
+9593,Fight Club,fight_club,drama,1999,Is trypophobic content shown,0,23
+9593,Fight Club,fight_club,drama,1999,Are there razors,6,13
+9593,Fight Club,fight_club,drama,1999,Are there mannequins,0,23
+9593,Fight Club,fight_club,drama,1999,Does someone vomit,74,2
+9593,Fight Club,fight_club,drama,1999,Does someone wet/soil themselves,5,27
+9593,Fight Club,fight_club,drama,1999,Is there farting,0,16
+9593,Fight Club,fight_club,drama,1999,Is someone eaten,0,18
+9593,Fight Club,fight_club,drama,1999,Is there on-screen pooping,0,16
+9593,Fight Club,fight_club,drama,1999,Does someone spit,54,0
+9593,Fight Club,fight_club,drama,1999,Is there audio gore,28,11
+9593,Fight Club,fight_club,drama,1999,Are there 9/11 depictions,3,25
+9593,Fight Club,fight_club,drama,1999,Is there copaganda,1,37
+9593,Fight Club,fight_club,drama,1999,Is there incarceration,1,15
+9593,Fight Club,fight_club,drama,1999,Is a trans person depicted predatorily,0,16
+9593,Fight Club,fight_club,drama,1999,Is there deadnaming or birthnaming,0,20
+9593,Fight Club,fight_club,drama,1999,Is an LGBT+ person outed,0,14
+9593,Fight Club,fight_club,drama,1999,Are there transphobic slurs,0,21
+9593,Fight Club,fight_club,drama,1999,Is there bisexual cheating,0,21
+9593,Fight Club,fight_club,drama,1999,Is a priceless artifact destroyed,0,17
+9593,Fight Club,fight_club,drama,1999,Are needles/syringes used,23,24
+9593,Fight Club,fight_club,drama,1999,Is electro-therapy used,0,43
+9593,Fight Club,fight_club,drama,1999,Is there a hospital scene,39,12
+9593,Fight Club,fight_club,drama,1999,Is there menstruation,0,19
+9593,Fight Club,fight_club,drama,1999,Does someone have cancer,77,1
+9593,Fight Club,fight_club,drama,1999,Is there a mental institution scene,0,45
+9593,Fight Club,fight_club,drama,1999,Does someone self harm,68,0
+9593,Fight Club,fight_club,drama,1999,Is autism misrepresented,0,20
+9593,Fight Club,fight_club,drama,1999,Is a mentally ill person violent,56,0
+9593,Fight Club,fight_club,drama,1999,"Is there dissociation, depersonalization, or derealization",21,0
+9593,Fight Club,fight_club,drama,1999,Is there D.I.D. misrepresentation,29,5
+9593,Fight Club,fight_club,drama,1999,Is there autism specific abuse,0,43
+9593,Fight Club,fight_club,drama,1999,Does someone attempt suicide,36,0
+9593,Fight Club,fight_club,drama,1999,Is reality unstable or unhinged,29,0
+9593,Fight Club,fight_club,drama,1999,Does someone have a mental illness,26,0
+9593,Fight Club,fight_club,drama,1999,Is there misophonia,34,1
+9593,Fight Club,fight_club,drama,1999,Are there anxiety attacks,7,28
+9593,Fight Club,fight_club,drama,1999,Is there ABA therapy,0,18
+9593,Fight Club,fight_club,drama,1999,"Does someone say ""I'll kill myself""",46,1
+9593,Fight Club,fight_club,drama,1999,Is there body dysphoria,1,19
+9593,Fight Club,fight_club,drama,1999,Is there body dysmorphia,50,8
+9593,Fight Club,fight_club,drama,1999,Is there a claustrophobic scene,0,42
+9593,Fight Club,fight_club,drama,1999,Does someone have an eating disorder,1,47
+9593,Fight Club,fight_club,drama,1999,Does someone die by suicide,55,10
+9593,Fight Club,fight_club,drama,1999,Does someone suffer from PTSD,0,30
+9593,Fight Club,fight_club,drama,1999,Does someone have a meltdown,17,0
+9593,Fight Club,fight_club,drama,1999,Are there underwater scenes,0,16
+9593,Fight Club,fight_club,drama,1999,Are there sudden loud noises,3,14
+9593,Fight Club,fight_club,drama,1999,Is there shakey cam,47,3
+9593,Fight Club,fight_club,drama,1999,Does a baby cry,0,28
+9593,Fight Club,fight_club,drama,1999,Is there screaming,15,0
+9593,Fight Club,fight_club,drama,1999,Is there obscene language/gestures,24,1
+9593,Fight Club,fight_club,drama,1999,Are there flashing lights or images,40,9
+9593,Fight Club,fight_club,drama,1999,Is someone watched without knowing,16,0
+9593,Fight Club,fight_club,drama,1999,Is the fourth wall broken,37,0
+9593,Fight Club,fight_club,drama,1999,Is a baby stillborn,0,27
+9593,Fight Club,fight_club,drama,1999,Does someone miscarry,0,39
+9593,Fight Club,fight_club,drama,1999,Are there babies or unborn children,0,25
+9593,Fight Club,fight_club,drama,1999,Is there childbirth,0,39
+9593,Fight Club,fight_club,drama,1999,Are there abortions,0,38
+9593,Fight Club,fight_club,drama,1999,Does a pregnant person die,0,35
+9593,Fight Club,fight_club,drama,1999,Are there homophobic slurs,2,32
+9593,Fight Club,fight_club,drama,1999,Is there ableist language or behavior,10,28
+9593,Fight Club,fight_club,drama,1999,Is there antisemitism,0,36
+9593,Fight Club,fight_club,drama,1999,"Are there ""Man in a dress"" jokes",2,27
+9593,Fight Club,fight_club,drama,1999,Is someone misgendered,0,38
+9593,Fight Club,fight_club,drama,1999,Does an LGBT person die,10,37
+9593,Fight Club,fight_club,drama,1999,Are there fat jokes,57,1
+9593,Fight Club,fight_club,drama,1999,Is there aphobia,0,19
+9593,Fight Club,fight_club,drama,1999,Are there usages of the n-word,0,36
+9593,Fight Club,fight_club,drama,1999,Does the black guy die first,0,37
+9593,Fight Club,fight_club,drama,1999,Is there hate speech,44,4
+9593,Fight Club,fight_club,drama,1999,Is a minority is misrepresented,6,13
+9593,Fight Club,fight_club,drama,1999,Is there blackface,0,19
+9593,Fight Club,fight_club,drama,1999,Is there a large age gap,0,24
+9593,Fight Club,fight_club,drama,1999,Is religion discussed,9,10
+9593,Fight Club,fight_club,drama,1999,Are there demons or Hell,0,15
+9593,Fight Club,fight_club,drama,1999,Are there nude scenes,31,1
+9593,Fight Club,fight_club,drama,1999,Is there bestiality,0,21
+9593,Fight Club,fight_club,drama,1999,Does someone lose their virginity,0,18
+9593,Fight Club,fight_club,drama,1999,Is someone sexually objectified,24,1
+9593,Fight Club,fight_club,drama,1999,Are there incestuous relationships,0,43
+9593,Fight Club,fight_club,drama,1999,Is there sexual content,68,1
+9593,Fight Club,fight_club,drama,1999,Is there BDSM,0,14
+9593,Fight Club,fight_club,drama,1999,Is a male character ridiculed for crying,0,27
+9593,Fight Club,fight_club,drama,1999,Does someone have a stroke,0,23
+9593,Fight Club,fight_club,drama,1999,Does someone have a chronic illness,25,0
+9593,Fight Club,fight_club,drama,1999,Is there dementia/Alzheimer's,0,22
+9593,Fight Club,fight_club,drama,1999,Is someone terminally ill,22,0
+9593,Fight Club,fight_club,drama,1999,Are there fat suits,17,4
+9593,Fight Club,fight_club,drama,1999,Is someone homeless,0,27
+9593,Fight Club,fight_club,drama,1999,Is existentialism debated,18,2
+9593,Fight Club,fight_club,drama,1999,Are there anti-abortion themes,0,17
+9593,Fight Club,fight_club,drama,1999,Is Santa (et al) spoiled,1,43
+9593,Fight Club,fight_club,drama,1999,Are there end credit scenes,0,16
+9593,Fight Club,fight_club,drama,1999,Does it have a sad ending,20,28
+9593,Fight Club,fight_club,drama,1999,Does a car honk or tires screech,28,0
+9593,Fight Club,fight_club,drama,1999,Does a car crash,62,1
+9593,Fight Club,fight_club,drama,1999,Does a plane crash,58,2
+9593,Fight Club,fight_club,drama,1999,Is someone hit by a car,4,39
+9593,Fight Club,fight_club,drama,1999,Does someone drown,0,45
+9593,Fight Club,fight_club,drama,1999,Is there blood/gore,73,0
+9593,Fight Club,fight_club,drama,1999,Is there a nuclear explosion,3,44
+9593,Fight Club,fight_club,drama,1999,Is there gun violence,53,0
